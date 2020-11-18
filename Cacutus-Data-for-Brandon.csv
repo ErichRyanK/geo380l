@@ -1,0 +1,243 @@
+Species,Country,Outcome,Age,Sex,Year
+CACU,Mexico,Non-fatal,20,Male,2000
+CACU,Costa Rica,Fatal,29,Male,2002
+CACU,Costa Rica,Non-fatal,58,Male,2002
+CACU,Costa Rica,Non-fatal,53,Male,2002
+CACU,Nicaragua,Non-fatal,42,Male,2002
+CACU,Nicaragua,Non-fatal,18,Male,2002
+CACU,Panama,Non-fatal,36,Male,2003
+CACU,Mexico,Non-fatal,40-something,Male,2004
+CACU,Mexico,Non-fatal,over 60,Female,2005
+CACU,Mexico,Non-fatal,adult,Male,2005
+CACU,Panama,Non-fatal,adult,Male,2005
+CACU,Mexico,Non-fatal,adult,Male,2005
+CACU,Costa Rica,Fatal,13,Male,2005
+CACU,Jamaica,Non-fatal,adult,Male,2005
+CACU,Mexico,Non-fatal,13,Male,2006
+CACU,Costa Rica,Non-fatal,20,Male,2006
+CACU,Mexico,Non-fatal,10,Male,2006
+CACU,Mexico,Non-fatal,5,Female,2006
+CACU,Mexico,Non-fatal,43,Male,2006
+CACU,Costa Rica,Non-fatal,11,Female,2006
+CACU,Costa Rica,Non-fatal,16,Male,2006
+CACU,Costa Rica,Non-fatal,30,Male,2007
+CACU,Costa Rica,Non-fatal,18,Male,2007
+CACU,Costa Rica,Non-fatal,25,Male,2007
+CACU,Nicaragua,Fatal,4,Male,2007
+CACU,El Salvador,Non-fatal,20,Male,2007
+CACU,Mexico,Fatal,5,Male,2007
+CACU,Costa Rica,Fatal,13,Male,2007
+CACU,Panama,Fatal,38,Male,2007
+CACU,Mexico,Non-fatal,10,Male,2007
+CACU,Mexico,Non-fatal,9,Male,2007
+CACU,Mexico,Non-fatal,12,Male,2007
+CACU,Panama,Non-fatal,adult,Male,2007
+CACU,Mexico,Non-fatal,29,Male,2007
+CACU,Costa Rica,Non-fatal,?,Male,2008
+CACU,Costa Rica,Fatal,41,Male,2008
+CACU,Costa Rica,Fatal,35,Female,2008
+CACU,Mexico,Non-fatal,42,Male,2008
+CACU,Mexico,Fatal,42,Male,2008
+CACU,Costa Rica,Fatal,14,Male,2008
+CACU,Mexico,Non-fatal,adult,Male,2008
+CACU,Costa Rica,Non-fatal,13,Male,2008
+CACU,Mexico,Non-fatal,39,Male,2008
+CACU,Costa Rica,Non-fatal,38,Male,2009
+CACU,Jamaica,Non-fatal,36,Male,2009
+CACU,Mexico,Non-fatal,adult,Male,2009
+CACU,Mexico,Non-fatal,?,Male,2009
+CACU,Colombia,Fatal,6,Female,2009
+CACU,Costa Rica,Non-fatal,28,?,2010
+CACU,Panama,Non-fatal,?,Male,2010
+CACU,Mexico,Non-fatal,?,Male,2010
+CACU,Mexico,Non-fatal,15,Male,2010
+CACU,Mexico,Non-fatal,29,Male,2010
+CACU,Costa Rica,Fatal,25,Male,2010
+CACU,Costa Rica,Non-fatal,30,Male,2010
+CACU,Mexico,Non-fatal,58,Male,2010
+CACU,Costa Rica,Fatal,22,Male,2010
+CACU,Panama,Non-fatal,32,Male,2010
+CACU,Mexico,Non-fatal,74,Male,2010
+CACU,Panama,Fatal,19,Male,2010
+CACU,Mexico,Non-fatal,53,Male,2010
+CACU,Mexico,Non-fatal,?,Male,2010
+CACU,Nicaragua,Fatal,31,Male,2010
+CACU,Mexico,Non-fatal,2,Male,2010
+CACU,Jamaica,Non-fatal,?,Male,2010
+CACU,Mexico,Fatal,33,Male,2010
+CACU,Panama,Non-fatal,?,Male,2010
+CACU,Nicaragua,Non-fatal,?,Male,2011
+CACU,Mexico,Non-fatal,20,Male,2011
+CACU,Costa Rica,Non-fatal,12,Female,2011
+CACU,Belize,Non-fatal,?,Male,2011
+CACU,Mexico,Non-fatal,20-something,Male,2011
+CACU,Mexico,Non-fatal,52,Male,2011
+CACU,Mexico,Non-fatal,42,Male,2011
+CACU,Mexico,Non-fatal,16,Female,2011
+CACU,Mexico,Non-fatal,32,Male,2011
+CACU,Mexico,Non-fatal,?,Male,2012
+CACU,Mexico,Non-fatal,?,?,2012
+CACU,Venezuela,Non-fatal,6,Female,2012
+CACU,Mexico,Non-fatal,53,Male,2012
+CACU,Mexico,Non-fatal,23,Male,2012
+CACU,Mexico,Non-fatal,69,Male,2012
+CACU,Mexico,Non-fatal,38,Male,2012
+CACU,Mexico,Non-fatal,elderly,Male,2012
+CACU,Mexico,Non-fatal,?,Male,2012
+CACU,Costa Rica,Non-fatal,?,Male,2012
+CACU,Mexico,Non-fatal,60,Male,2012
+CACU,Mexico,Non-fatal,30-something,Male,2012
+CACU,Mexico,Non-fatal,?,Male,2012
+CACU,Colombia,Non-fatal,41,Male,2012
+CACU,Mexico,Non-fatal,20,Male,2012
+CACU,Colombia,Non-fatal,8,Male,2012
+CACU,Panama,Non-fatal,29,Male,2013
+CACU,Panama,Non-fatal,19,Male,2013
+CACU,Panama,Fatal,41/45,Male,2013
+CACU,Colombia,Fatal,15,Male,2013
+CACU,Mexico,Non-fatal,?,Male,2013
+CACU,Costa Rica,Non-fatal,50,Male,2013
+CACU,Costa Rica,Non-fatal,14,Female,2013
+CACU,Mexico,Non-fatal,adult,Male,2013
+CACU,Mexico,Non-fatal,70,Male,2013
+CACU,Mexico,Non-fatal,41,Male,2013
+CACU,Mexico,Fatal,10,Male,2013
+CACU,Belize,Non-fatal,adult,Male,2013
+CACU,Costa Rica,Non-fatal,?,Male,2013
+CACU,Costa Rica,Fatal,65,Male,2013
+CACU,Mexico,Non-fatal,?,Male,2013
+CACU,Mexico,Non-fatal,35,Male,2013
+CACU,Mexico,Non-fatal,61,Male,2014
+CACU,Mexico,Non-fatal,19-20,Male,2014
+CACU,El Salvador,Non-fatal,41,Male,2014
+CACU,Jamaica,Non-fatal,64,Male,2014
+CACU,Costa Rica,Non-fatal,adult,Male,2014
+CACU,Honduras,Non-fatal,22,Male,2014
+CACU,Costa Rica,Fatal,22,Male,2014
+CACU,Mexico,Non-fatal,20-something,Male,2014
+CACU,Mexico,Non-fatal,teenager,Male,2014
+CACU,Panama,Non-fatal,adult,Male,2014
+CACU,Mexico,Fatal,46,Male,2014
+CACU,Mexico,Non-fatal,adult,Male,2014
+CACU,Colombia,Non-fatal,6,Female,2014
+CACU,Mexico,Fatal,80-something,Male,2014
+CACU,Mexico,Non-fatal,25,Male,2014
+CACU,USA,Non-fatal,26,Male,2014
+CACU,USA,Non-fatal,23,Female,2014
+CACU,Mexico,Non-fatal,29,Female,2014
+CACU,Mexico,Non-fatal,over 35,Male,2014
+CACU,Mexico,Non-fatal,elderly,Male,2014
+CACU,Mexico,Non-fatal,14,Male,2014
+CACU,Mexico,Non-fatal,young,Female,2014
+CACU,Mexico,Non-fatal,young adult,Male,2014
+CACU,Mexico,Non-fatal,adult,Male,2015
+CACU,Mexico,Non-fatal,39,Male,2015
+CACU,Jamaica,Non-fatal,13,Female,2015
+CACU,Costa Rica,Non-fatal,44,Male,2015
+CACU,Colombia,Non-fatal,adult,Male,2015
+CACU,Mexico,Non-fatal,30-something,Male,2015
+CACU,Mexico,Non-fatal,20-something,Male,2015
+CACU,Mexico,Non-fatal,30-something,Male,2015
+CACU,Mexico,Fatal,7,Male,2015
+CACU,Mexico,Non-fatal,child,Female,2015
+CACU,Panama,Non-fatal,adult,Male,2015
+CACU,Mexico,Non-fatal,44,Male,2015
+CACU,Mexico,Non-fatal,50,Female,2015
+CACU,Mexico,Non-fatal,47,Male,2015
+CACU,Mexico,Non-fatal,69,Male,2015
+CACU,Costa Rica,Non-fatal,5,Male,2015
+CACU,Mexico,Fatal,78,Male,2015
+CACU,Mexico,Non-fatal,59,Male,2015
+CACU,Mexico,Non-fatal,30,Male,2015
+CACU,Mexico,Fatal,11,Male,2015
+CACU,El Salvador,Non-fatal,46,Male,2015
+CACU,Mexico,Fatal,74,Male,2015
+CACU,Mexico,Non-fatal,54,Male,2015
+CACU,Colombia,Non-fatal,adult,Male,2016
+CACU,Colombia,Non-fatal,adult,Male,2016
+CACU,Costa Rica,Non-fatal,29,Male,2016
+CACU,Costa Rica,Non-fatal,adult,Male,2016
+CACU,Costa Rica,Non-fatal,6,Male,2016
+CACU,Costa Rica,Non-fatal,30,Male,2016
+CACU,Costa Rica,Fatal,79,Male,2016
+CACU,Costa Rica,Non-fatal,51,Male,2016
+CACU,Mexico,Non-fatal,30,Male,2016
+CACU,Mexico,Non-fatal,55,Male,2016
+CACU,El Salvador,Non-fatal,30,Male,2016
+CACU,Mexico,Non-fatal,adult,Male,2016
+CACU,Costa Rica,Non-fatal,59,Male,2016
+CACU,Mexico,Non-fatal,57,Male,2016
+CACU,Mexico,Non-fatal,50-something,Male,2016
+CACU,Mexico,Non-fatal,37,Female,2016
+CACU,Mexico,Non-fatal,36,Male,2016
+CACU,Mexico,Non-fatal,adult,Male,2016
+CACU,Mexico,Fatal,10,Male,2016
+CACU,Mexico,Non-fatal,40,Male,2016
+CACU,Mexico,Fatal,78,Male,2016
+CACU,Mexico,Non-fatal,36,Male,2016
+CACU,Mexico,Non-fatal,40,Male,2016
+CACU,Mexico,Non-fatal,adult,Male,2016
+CACU,Mexico,Non-fatal,51,Male,2016
+CACU,Mexico,Non-fatal,63,Male,2016
+CACU,Mexico,Non-fatal,33,Male,2017
+CACU,Belize,Non-fatal,adult,Male,2017
+CACU,Costa Rica,Non-fatal,adult,Male,2017
+CACU,Mexico,Fatal,18,Male,2017
+CACU,Mexico,Non-fatal,30-something,Male,2017
+CACU,Panama,Non-fatal,59,Female,2017
+CACU,Costa Rica,Non-fatal,21,Male,2017
+CACU,Costa Rica,Non-fatal,32,Male,2017
+CACU,Mexico,Fatal,adult,Male,2017
+CACU,Costa Rica,Non-fatal,5,Female,2017
+CACU,Mexico,Non-fatal,60,Male,2017
+CACU,Mexico,Non-fatal,41,Male,2017
+CACU,Mexico,Non-fatal,61,Male,2017
+CACU,Mexico,Non-fatal,48,Male,2017
+CACU,Mexico,Non-fatal,52,Male,2017
+CACU,Mexico,Non-fatal,adult,Male,2017
+CACU,Mexico,Non-fatal,23,Male,2017
+CACU,Panama,Fatal,38,Male,2017
+CACU,Mexico,Non-fatal,59,Male,2017
+CACU,Jamaica,Non-fatal,47,Male,2017
+CACU,Mexico,Non-fatal,34,Male,2017
+CACU,Mexico,Fatal,37,Male,2017
+CACU,Mexico,Non-fatal,approx. 61,Male,2017
+CACU,Costa Rica,Non-fatal,39,Male,2017
+CACU,Mexico,Non-fatal,adult,Male,2017
+CACU,Mexico,Fatal,4,Male,2018
+CACU,Mexico,Non-fatal,50-something,Female,2018
+CACU,Cuba,Non-fatal,adult,Female,2018
+CACU,Mexico,Non-fatal,adult,Male,2018
+CACU,Mexico,Non-fatal,40-something,Male,2018
+CACU,Mexico,Non-fatal,27,Male,2018
+CACU,Mexico,Non-fatal,30-something,Male,2018
+CACU,Jamaica,Fatal,67,Male,2018
+CACU,Mexico,Fatal,35-40,Male,2018
+CACU,Mexico,Non-fatal,38,Male,2018
+CACU,Mexico,Non-fatal,19,Male,2018
+CACU,Mexico,Non-fatal,30,Female,2018
+CACU,Costa Rica,Non-fatal,adult,Female,2018
+CACU,Jamaica,Non-fatal,48,Male,2019
+CACU,Colombia,Non-fatal,43,Male,2019
+CACU,Mexico,Non-fatal,around 35,Male,2019
+CACU,Belize,Non-fatal,39,Female,2019
+CACU,Costa Rica,Non-fatal,adult,Male,2019
+CACU,Mexico,Non-fatal,54,Male,2019
+CACU,Colombia,Non-fatal,adult,Male,2019
+CACU,Jamaica,Non-fatal,50,Male,2019
+CACU,Mexico,Non-fatal,adult,Male,2019
+CACU,Costa Rica,Non-fatal,55,Male,2019
+CACU,Mexico,Non-fatal,65,Male,2019
+CACU,Mexico,Non-fatal,?,?,2019
+CACU,Jamaica,Non-fatal,adult,Male,2019
+CACU,Jamaica,Non-fatal,adult,Male,2019
+CACU,Costa Rica,Non-fatal,adult,Male,2019
+CACU,Colombia,Non-fatal,25,Male,2020
+CACU,Mexico,Fatal,4,Male,2020
+CACU,Nicaragua,Non-fatal,69,Male,2020
+CACU,Honduras,Fatal,10,Male,2020
+CACU,Mexico,Non-fatal,61,Male,2020
+CACU,Mexico,Non-fatal,6,Male,2020
+CACU,Panama,Non-fatal,adult,Male,2020
+CACU,Mexico,Non-fatal,47,Male,2020
+CACU,Mexico,Non-fatal,adult,Male,2020
