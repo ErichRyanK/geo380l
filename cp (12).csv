@@ -1,0 +1,240 @@
+,Species,Country,Outcome,Age,Sex,Year,Entity,Code,Population density (people per sq. km of land area)
+0,CACU,Mexico,Non-fatal,20,Male,2000,Mexico,MEX,52.32628051
+1,CACU,Costa Rica,Fatal,29,Male,2002,Costa Rica,CRI,79.57704661
+2,CACU,Costa Rica,Non-fatal,58,Male,2002,Costa Rica,CRI,79.57704661
+3,CACU,Costa Rica,Non-fatal,53,Male,2002,Costa Rica,CRI,79.57704661
+4,CACU,Nicaragua,Non-fatal,42,Male,2002,Nicaragua,NIC,42.97601795
+5,CACU,Nicaragua,Non-fatal,18,Male,2002,Nicaragua,NIC,42.97601795
+6,CACU,Panama,Non-fatal,36,Male,2003,Panama,PAN,43.16887275
+7,CACU,Mexico,Non-fatal,40-something,Male,2004,Mexico,MEX,55.04029579
+8,CACU,Mexico,Non-fatal,over 60,Female,2005,Mexico,MEX,55.79990638
+9,CACU,Mexico,Non-fatal,adult,Male,2005,Mexico,MEX,55.79990638
+10,CACU,Panama,Non-fatal,adult,Male,2005,Panama,PAN,44.80044391
+11,CACU,Mexico,Non-fatal,adult,Male,2005,Mexico,MEX,55.79990638
+12,CACU,Costa Rica,Fatal,13,Male,2005,Costa Rica,CRI,83.19312573
+13,CACU,Jamaica,Non-fatal,adult,Male,2005,Jamaica,JAM,253.43241
+14,CACU,Mexico,Non-fatal,13,Male,2006,Mexico,MEX,56.63333831
+15,CACU,Costa Rica,Non-fatal,20,Male,2006,Costa Rica,CRI,84.38687818
+16,CACU,Mexico,Non-fatal,10,Male,2006,Mexico,MEX,56.63333831
+17,CACU,Mexico,Non-fatal,5,Female,2006,Mexico,MEX,56.63333831
+18,CACU,Mexico,Non-fatal,43,Male,2006,Mexico,MEX,56.63333831
+19,CACU,Costa Rica,Non-fatal,11,Female,2006,Costa Rica,CRI,84.38687818
+20,CACU,Costa Rica,Non-fatal,16,Male,2006,Costa Rica,CRI,84.38687818
+21,CACU,Costa Rica,Non-fatal,30,Male,2007,Costa Rica,CRI,85.57518606
+22,CACU,Costa Rica,Non-fatal,18,Male,2007,Costa Rica,CRI,85.57518606
+23,CACU,Costa Rica,Non-fatal,25,Male,2007,Costa Rica,CRI,85.57518606
+24,CACU,Nicaragua,Fatal,4,Male,2007,Nicaragua,NIC,45.88753532
+25,CACU,El Salvador,Non-fatal,20,Male,2007,El Salvador,SLV,293.60400580000004
+26,CACU,Mexico,Fatal,5,Male,2007,Mexico,MEX,57.53046426
+27,CACU,Costa Rica,Fatal,13,Male,2007,Costa Rica,CRI,85.57518606
+28,CACU,Panama,Fatal,38,Male,2007,Panama,PAN,46.45960452
+29,CACU,Mexico,Non-fatal,10,Male,2007,Mexico,MEX,57.53046426
+30,CACU,Mexico,Non-fatal,9,Male,2007,Mexico,MEX,57.53046426
+31,CACU,Mexico,Non-fatal,12,Male,2007,Mexico,MEX,57.53046426
+32,CACU,Panama,Non-fatal,adult,Male,2007,Panama,PAN,46.45960452
+33,CACU,Mexico,Non-fatal,29,Male,2007,Mexico,MEX,57.53046426
+34,CACU,Costa Rica,Non-fatal,?,Male,2008,Costa Rica,CRI,86.75103799
+35,CACU,Costa Rica,Fatal,41,Male,2008,Costa Rica,CRI,86.75103799
+36,CACU,Costa Rica,Fatal,35,Female,2008,Costa Rica,CRI,86.75103799
+37,CACU,Mexico,Non-fatal,42,Male,2008,Mexico,MEX,58.46951259
+38,CACU,Mexico,Fatal,42,Male,2008,Mexico,MEX,58.46951259
+39,CACU,Costa Rica,Fatal,14,Male,2008,Costa Rica,CRI,86.75103799
+40,CACU,Mexico,Non-fatal,adult,Male,2008,Mexico,MEX,58.46951259
+41,CACU,Costa Rica,Non-fatal,13,Male,2008,Costa Rica,CRI,86.75103799
+42,CACU,Mexico,Non-fatal,39,Male,2008,Mexico,MEX,58.46951259
+43,CACU,Costa Rica,Non-fatal,38,Male,2009,Costa Rica,CRI,87.90174305
+44,CACU,Jamaica,Non-fatal,36,Male,2009,Jamaica,JAM,258.9180055
+45,CACU,Mexico,Non-fatal,adult,Male,2009,Mexico,MEX,59.41779778
+46,CACU,Mexico,Non-fatal,?,Male,2009,Mexico,MEX,59.41779778
+47,CACU,Colombia,Fatal,6,Female,2009,Colombia,COL,40.93391708
+48,CACU,Panama,Non-fatal,?,Male,2010,Panama,PAN,49.00755986
+49,CACU,Mexico,Non-fatal,?,Male,2010,Mexico,MEX,60.35080172
+50,CACU,Mexico,Non-fatal,15,Male,2010,Mexico,MEX,60.35080172
+51,CACU,Mexico,Non-fatal,29,Male,2010,Mexico,MEX,60.35080172
+52,CACU,Costa Rica,Fatal,25,Male,2010,Costa Rica,CRI,89.01840971
+53,CACU,Costa Rica,Non-fatal,30,Male,2010,Costa Rica,CRI,89.01840971
+54,CACU,Mexico,Non-fatal,58,Male,2010,Mexico,MEX,60.35080172
+55,CACU,Costa Rica,Fatal,22,Male,2010,Costa Rica,CRI,89.01840971
+56,CACU,Panama,Non-fatal,32,Male,2010,Panama,PAN,49.00755986
+57,CACU,Mexico,Non-fatal,74,Male,2010,Mexico,MEX,60.35080172
+58,CACU,Panama,Fatal,19,Male,2010,Panama,PAN,49.00755986
+59,CACU,Mexico,Non-fatal,53,Male,2010,Mexico,MEX,60.35080172
+60,CACU,Mexico,Non-fatal,?,Male,2010,Mexico,MEX,60.35080172
+61,CACU,Nicaragua,Fatal,31,Male,2010,Nicaragua,NIC,47.67926708
+62,CACU,Mexico,Non-fatal,2,Male,2010,Mexico,MEX,60.35080172
+63,CACU,Jamaica,Non-fatal,?,Male,2010,Jamaica,JAM,260.13019390000005
+64,CACU,Mexico,Fatal,33,Male,2010,Mexico,MEX,60.35080172
+65,CACU,Panama,Non-fatal,?,Male,2010,Panama,PAN,49.00755986
+66,CACU,Nicaragua,Non-fatal,?,Male,2011,Nicaragua,NIC,48.26175835
+67,CACU,Mexico,Non-fatal,20,Male,2011,Mexico,MEX,61.26187248
+68,CACU,Costa Rica,Non-fatal,12,Female,2011,Costa Rica,CRI,90.09937329
+69,CACU,Belize,Non-fatal,?,Male,2011,Belize,BLZ,14.43191583
+70,CACU,Mexico,Non-fatal,20-something,Male,2011,Mexico,MEX,61.26187248
+71,CACU,Mexico,Non-fatal,52,Male,2011,Mexico,MEX,61.26187248
+72,CACU,Mexico,Non-fatal,42,Male,2011,Mexico,MEX,61.26187248
+73,CACU,Mexico,Non-fatal,16,Female,2011,Mexico,MEX,61.26187248
+74,CACU,Mexico,Non-fatal,32,Male,2011,Mexico,MEX,61.26187248
+75,CACU,Mexico,Non-fatal,?,Male,2012,Mexico,MEX,62.15607757
+76,CACU,Venezuela,Non-fatal,6,Female,2012,Venezuela,VEN,33.89045972
+77,CACU,Mexico,Non-fatal,53,Male,2012,Mexico,MEX,62.15607757
+78,CACU,Mexico,Non-fatal,23,Male,2012,Mexico,MEX,62.15607757
+79,CACU,Mexico,Non-fatal,69,Male,2012,Mexico,MEX,62.15607757
+80,CACU,Mexico,Non-fatal,38,Male,2012,Mexico,MEX,62.15607757
+81,CACU,Mexico,Non-fatal,elderly,Male,2012,Mexico,MEX,62.15607757
+82,CACU,Mexico,Non-fatal,?,Male,2012,Mexico,MEX,62.15607757
+83,CACU,Costa Rica,Non-fatal,?,Male,2012,Costa Rica,CRI,91.15005875
+84,CACU,Mexico,Non-fatal,60,Male,2012,Mexico,MEX,62.15607757
+85,CACU,Mexico,Non-fatal,30-something,Male,2012,Mexico,MEX,62.15607757
+86,CACU,Mexico,Non-fatal,?,Male,2012,Mexico,MEX,62.15607757
+87,CACU,Colombia,Non-fatal,41,Male,2012,Colombia,COL,42.25459667
+88,CACU,Mexico,Non-fatal,20,Male,2012,Mexico,MEX,62.15607757
+89,CACU,Colombia,Non-fatal,8,Male,2012,Colombia,COL,42.25459667
+90,CACU,Panama,Non-fatal,29,Male,2013,Panama,PAN,51.6338714
+91,CACU,Panama,Non-fatal,19,Male,2013,Panama,PAN,51.6338714
+92,CACU,Panama,Fatal,41/45,Male,2013,Panama,PAN,51.6338714
+93,CACU,Colombia,Fatal,15,Male,2013,Colombia,COL,42.67055521
+94,CACU,Mexico,Non-fatal,?,Male,2013,Mexico,MEX,63.03452712
+95,CACU,Costa Rica,Non-fatal,50,Male,2013,Costa Rica,CRI,92.17393263
+96,CACU,Costa Rica,Non-fatal,14,Female,2013,Costa Rica,CRI,92.17393263
+97,CACU,Mexico,Non-fatal,adult,Male,2013,Mexico,MEX,63.03452712
+98,CACU,Mexico,Non-fatal,70,Male,2013,Mexico,MEX,63.03452712
+99,CACU,Mexico,Non-fatal,41,Male,2013,Mexico,MEX,63.03452712
+100,CACU,Mexico,Fatal,10,Male,2013,Mexico,MEX,63.03452712
+101,CACU,Belize,Non-fatal,adult,Male,2013,Belize,BLZ,15.08903989
+102,CACU,Costa Rica,Non-fatal,?,Male,2013,Costa Rica,CRI,92.17393263
+103,CACU,Costa Rica,Fatal,65,Male,2013,Costa Rica,CRI,92.17393263
+104,CACU,Mexico,Non-fatal,?,Male,2013,Mexico,MEX,63.03452712
+105,CACU,Mexico,Non-fatal,35,Male,2013,Mexico,MEX,63.03452712
+106,CACU,Mexico,Non-fatal,61,Male,2014,Mexico,MEX,63.90164356
+107,CACU,Mexico,Non-fatal,19-20,Male,2014,Mexico,MEX,63.90164356
+108,CACU,El Salvador,Non-fatal,41,Male,2014,El Salvador,SLV,303.1461873
+109,CACU,Jamaica,Non-fatal,64,Male,2014,Jamaica,JAM,264.2739612
+110,CACU,Costa Rica,Non-fatal,adult,Male,2014,Costa Rica,CRI,93.1761653
+111,CACU,Honduras,Non-fatal,22,Male,2014,Honduras,HND,78.73103941
+112,CACU,Costa Rica,Fatal,22,Male,2014,Costa Rica,CRI,93.1761653
+113,CACU,Mexico,Non-fatal,20-something,Male,2014,Mexico,MEX,63.90164356
+114,CACU,Mexico,Non-fatal,teenager,Male,2014,Mexico,MEX,63.90164356
+115,CACU,Panama,Non-fatal,adult,Male,2014,Panama,PAN,52.51528114
+116,CACU,Mexico,Fatal,46,Male,2014,Mexico,MEX,63.90164356
+117,CACU,Mexico,Non-fatal,adult,Male,2014,Mexico,MEX,63.90164356
+118,CACU,Colombia,Non-fatal,6,Female,2014,Colombia,COL,43.07517891
+119,CACU,Mexico,Fatal,80-something,Male,2014,Mexico,MEX,63.90164356
+120,CACU,Mexico,Non-fatal,25,Male,2014,Mexico,MEX,63.90164356
+121,CACU,USA,Non-fatal,26,Male,2014,,,
+122,CACU,USA,Non-fatal,23,Female,2014,,,
+123,CACU,Mexico,Non-fatal,29,Female,2014,Mexico,MEX,63.90164356
+124,CACU,Mexico,Non-fatal,over 35,Male,2014,Mexico,MEX,63.90164356
+125,CACU,Mexico,Non-fatal,elderly,Male,2014,Mexico,MEX,63.90164356
+126,CACU,Mexico,Non-fatal,14,Male,2014,Mexico,MEX,63.90164356
+127,CACU,Mexico,Non-fatal,young,Female,2014,Mexico,MEX,63.90164356
+128,CACU,Mexico,Non-fatal,young adult,Male,2014,Mexico,MEX,63.90164356
+129,CACU,Mexico,Non-fatal,adult,Male,2015,Mexico,MEX,64.76038427
+130,CACU,Mexico,Non-fatal,39,Male,2015,Mexico,MEX,64.76038427
+131,CACU,Jamaica,Non-fatal,13,Female,2015,Jamaica,JAM,265.1831948
+132,CACU,Costa Rica,Non-fatal,44,Male,2015,Costa Rica,CRI,94.1608304
+133,CACU,Colombia,Non-fatal,adult,Male,2015,Colombia,COL,43.46885714
+134,CACU,Mexico,Non-fatal,30-something,Male,2015,Mexico,MEX,64.76038427
+135,CACU,Mexico,Non-fatal,20-something,Male,2015,Mexico,MEX,64.76038427
+136,CACU,Mexico,Non-fatal,30-something,Male,2015,Mexico,MEX,64.76038427
+137,CACU,Mexico,Fatal,7,Male,2015,Mexico,MEX,64.76038427
+138,CACU,Mexico,Non-fatal,child,Female,2015,Mexico,MEX,64.76038427
+139,CACU,Panama,Non-fatal,adult,Male,2015,Panama,PAN,53.39317998
+140,CACU,Mexico,Non-fatal,44,Male,2015,Mexico,MEX,64.76038427
+141,CACU,Mexico,Non-fatal,50,Female,2015,Mexico,MEX,64.76038427
+142,CACU,Mexico,Non-fatal,47,Male,2015,Mexico,MEX,64.76038427
+143,CACU,Mexico,Non-fatal,69,Male,2015,Mexico,MEX,64.76038427
+144,CACU,Costa Rica,Non-fatal,5,Male,2015,Costa Rica,CRI,94.1608304
+145,CACU,Mexico,Fatal,78,Male,2015,Mexico,MEX,64.76038427
+146,CACU,Mexico,Non-fatal,59,Male,2015,Mexico,MEX,64.76038427
+147,CACU,Mexico,Non-fatal,30,Male,2015,Mexico,MEX,64.76038427
+148,CACU,Mexico,Fatal,11,Male,2015,Mexico,MEX,64.76038427
+149,CACU,El Salvador,Non-fatal,46,Male,2015,El Salvador,SLV,304.6562741
+150,CACU,Mexico,Fatal,74,Male,2015,Mexico,MEX,64.76038427
+151,CACU,Mexico,Non-fatal,54,Male,2015,Mexico,MEX,64.76038427
+152,CACU,Colombia,Non-fatal,adult,Male,2016,Colombia,COL,43.85166201
+153,CACU,Colombia,Non-fatal,adult,Male,2016,Colombia,COL,43.85166201
+154,CACU,Costa Rica,Non-fatal,29,Male,2016,Costa Rica,CRI,95.12875049
+155,CACU,Costa Rica,Non-fatal,adult,Male,2016,Costa Rica,CRI,95.12875049
+156,CACU,Costa Rica,Non-fatal,6,Male,2016,Costa Rica,CRI,95.12875049
+157,CACU,Costa Rica,Non-fatal,30,Male,2016,Costa Rica,CRI,95.12875049
+158,CACU,Costa Rica,Fatal,79,Male,2016,Costa Rica,CRI,95.12875049
+159,CACU,Costa Rica,Non-fatal,51,Male,2016,Costa Rica,CRI,95.12875049
+160,CACU,Mexico,Non-fatal,30,Male,2016,Mexico,MEX,65.60890095
+161,CACU,Mexico,Non-fatal,55,Male,2016,Mexico,MEX,65.60890095
+162,CACU,El Salvador,Non-fatal,30,Male,2016,El Salvador,SLV,306.2124517
+163,CACU,Mexico,Non-fatal,adult,Male,2016,Mexico,MEX,65.60890095
+164,CACU,Costa Rica,Non-fatal,59,Male,2016,Costa Rica,CRI,95.12875049
+165,CACU,Mexico,Non-fatal,57,Male,2016,Mexico,MEX,65.60890095
+166,CACU,Mexico,Non-fatal,50-something,Male,2016,Mexico,MEX,65.60890095
+167,CACU,Mexico,Non-fatal,37,Female,2016,Mexico,MEX,65.60890095
+168,CACU,Mexico,Non-fatal,36,Male,2016,Mexico,MEX,65.60890095
+169,CACU,Mexico,Non-fatal,adult,Male,2016,Mexico,MEX,65.60890095
+170,CACU,Mexico,Fatal,10,Male,2016,Mexico,MEX,65.60890095
+171,CACU,Mexico,Non-fatal,40,Male,2016,Mexico,MEX,65.60890095
+172,CACU,Mexico,Fatal,78,Male,2016,Mexico,MEX,65.60890095
+173,CACU,Mexico,Non-fatal,36,Male,2016,Mexico,MEX,65.60890095
+174,CACU,Mexico,Non-fatal,40,Male,2016,Mexico,MEX,65.60890095
+175,CACU,Mexico,Non-fatal,adult,Male,2016,Mexico,MEX,65.60890095
+176,CACU,Mexico,Non-fatal,51,Male,2016,Mexico,MEX,65.60890095
+177,CACU,Mexico,Non-fatal,63,Male,2016,Mexico,MEX,65.60890095
+178,CACU,Mexico,Non-fatal,33,Male,2017,Mexico,MEX,66.44372335
+179,CACU,Belize,Non-fatal,adult,Male,2017,Belize,BLZ,16.42617273
+180,CACU,Costa Rica,Non-fatal,adult,Male,2017,Costa Rica,CRI,96.07851547
+181,CACU,Mexico,Fatal,18,Male,2017,Mexico,MEX,66.44372335
+182,CACU,Mexico,Non-fatal,30-something,Male,2017,Mexico,MEX,66.44372335
+183,CACU,Panama,Non-fatal,59,Female,2017,Panama,PAN,55.13299704
+184,CACU,Costa Rica,Non-fatal,21,Male,2017,Costa Rica,CRI,96.07851547
+185,CACU,Costa Rica,Non-fatal,32,Male,2017,Costa Rica,CRI,96.07851547
+186,CACU,Mexico,Fatal,adult,Male,2017,Mexico,MEX,66.44372335
+187,CACU,Costa Rica,Non-fatal,5,Female,2017,Costa Rica,CRI,96.07851547
+188,CACU,Mexico,Non-fatal,60,Male,2017,Mexico,MEX,66.44372335
+189,CACU,Mexico,Non-fatal,41,Male,2017,Mexico,MEX,66.44372335
+190,CACU,Mexico,Non-fatal,61,Male,2017,Mexico,MEX,66.44372335
+191,CACU,Mexico,Non-fatal,48,Male,2017,Mexico,MEX,66.44372335
+192,CACU,Mexico,Non-fatal,52,Male,2017,Mexico,MEX,66.44372335
+193,CACU,Mexico,Non-fatal,adult,Male,2017,Mexico,MEX,66.44372335
+194,CACU,Mexico,Non-fatal,23,Male,2017,Mexico,MEX,66.44372335
+195,CACU,Panama,Fatal,38,Male,2017,Panama,PAN,55.13299704
+196,CACU,Mexico,Non-fatal,59,Male,2017,Mexico,MEX,66.44372335
+197,CACU,Jamaica,Non-fatal,47,Male,2017,Jamaica,JAM,266.8789474
+198,CACU,Mexico,Non-fatal,34,Male,2017,Mexico,MEX,66.44372335
+199,CACU,Mexico,Fatal,37,Male,2017,Mexico,MEX,66.44372335
+200,CACU,Mexico,Non-fatal,approx. 61,Male,2017,Mexico,MEX,66.44372335
+201,CACU,Costa Rica,Non-fatal,39,Male,2017,Costa Rica,CRI,96.07851547
+202,CACU,Mexico,Non-fatal,adult,Male,2017,Mexico,MEX,66.44372335
+203,CACU,Mexico,Fatal,4,Male,2018,,,
+204,CACU,Mexico,Non-fatal,50-something,Female,2018,,,
+205,CACU,Cuba,Non-fatal,adult,Female,2018,,,
+206,CACU,Mexico,Non-fatal,adult,Male,2018,,,
+207,CACU,Mexico,Non-fatal,40-something,Male,2018,,,
+208,CACU,Mexico,Non-fatal,27,Male,2018,,,
+209,CACU,Mexico,Non-fatal,30-something,Male,2018,,,
+210,CACU,Jamaica,Fatal,67,Male,2018,,,
+211,CACU,Mexico,Fatal,35-40,Male,2018,,,
+212,CACU,Mexico,Non-fatal,38,Male,2018,,,
+213,CACU,Mexico,Non-fatal,19,Male,2018,,,
+214,CACU,Mexico,Non-fatal,30,Female,2018,,,
+215,CACU,Costa Rica,Non-fatal,adult,Female,2018,,,
+216,CACU,Jamaica,Non-fatal,48,Male,2019,,,
+217,CACU,Colombia,Non-fatal,43,Male,2019,,,
+218,CACU,Mexico,Non-fatal,around 35,Male,2019,,,
+219,CACU,Belize,Non-fatal,39,Female,2019,,,
+220,CACU,Costa Rica,Non-fatal,adult,Male,2019,,,
+221,CACU,Mexico,Non-fatal,54,Male,2019,,,
+222,CACU,Colombia,Non-fatal,adult,Male,2019,,,
+223,CACU,Jamaica,Non-fatal,50,Male,2019,,,
+224,CACU,Mexico,Non-fatal,adult,Male,2019,,,
+225,CACU,Costa Rica,Non-fatal,55,Male,2019,,,
+226,CACU,Mexico,Non-fatal,65,Male,2019,,,
+227,CACU,Jamaica,Non-fatal,adult,Male,2019,,,
+228,CACU,Jamaica,Non-fatal,adult,Male,2019,,,
+229,CACU,Costa Rica,Non-fatal,adult,Male,2019,,,
+230,CACU,Colombia,Non-fatal,25,Male,2020,,,
+231,CACU,Mexico,Fatal,4,Male,2020,,,
+232,CACU,Nicaragua,Non-fatal,69,Male,2020,,,
+233,CACU,Honduras,Fatal,10,Male,2020,,,
+234,CACU,Mexico,Non-fatal,61,Male,2020,,,
+235,CACU,Mexico,Non-fatal,6,Male,2020,,,
+236,CACU,Panama,Non-fatal,adult,Male,2020,,,
+237,CACU,Mexico,Non-fatal,47,Male,2020,,,
+238,CACU,Mexico,Non-fatal,adult,Male,2020,,,
